@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/glerchundi/sqlboiler-crdb/v4/driver"
+	"github.com/dgollings/sqlboiler-crdb/v4/driver" // forked from glerchundi
 	"github.com/volatiletech/sqlboiler/v4/drivers"
 )
 
